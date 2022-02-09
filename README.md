@@ -13,7 +13,13 @@ Linux 下 C++ 轻量级 Web 服务器.
 
 
 ## 3.设计框架
+
+<div align=center>
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/22310531/153018656-0d1f891d-7bf4-430d-b01c-e04bab9b69e5.png">
+</div>
+
+
+
 
 ## 4.项目如何执行
 
