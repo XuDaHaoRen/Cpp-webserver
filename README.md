@@ -18,6 +18,10 @@ Linux 下 C++ 轻量级 Web 服务器.
 <img width="699" alt="image" src="https://user-images.githubusercontent.com/22310531/153018656-0d1f891d-7bf4-430d-b01c-e04bab9b69e5.png">
 </div>
 
+<div align=center>
+<img width="273" alt="image" src="https://github.com/XuDaHaoRen/Cpp-webserver/blob/main/%E6%9C%8D%E5%8A%A1%E5%99%A8.png">
+</div>
+
 
 
 
